@@ -1,8 +1,6 @@
 Hello Aman
 1
 2
-<<<<<<< HEAD
 3 by issue
-=======
 feature 3
->>>>>>> feature
+
