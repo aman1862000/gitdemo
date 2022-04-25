@@ -1,6 +1,2 @@
 hello aman
 hello aman 1
-hello aman 2
-hello aman 4
-hello aman 5
-hello aman 6
